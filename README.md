@@ -1,1 +1,0 @@
-# hotelreservation-springboot-angular2
